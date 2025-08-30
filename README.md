@@ -16,5 +16,5 @@ This application provides seamless URL shortening with a sleek, responsive user 
 * TinyURL API for shortening logic
 * Netlify for deployment
 
-**Configuration : **
+<h1>**Configuration :**</h1>
 * All default React and Vite settings are preserved for easy local deployment
