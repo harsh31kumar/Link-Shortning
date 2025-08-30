@@ -1,4 +1,4 @@
-ink Shortener Website
+Link Shortener Website
 A fully functional Link Shortener Website built with modern web frameworks: JavaScript, Vue, HTML, CSS, React, and Angular.
 This application provides seamless URL shortening with a sleek, responsive user interface and leverages advanced concepts such as state management and external API integration for robust performance and scalability.
 
